@@ -32,7 +32,7 @@ cd riftjs
 2. Install what you need:
 
 ```bash
-npm install discord.js dotenv
+cd riftjs && npm i
 ```
 
 3. Make a `.env` file and put your bot token in it:
@@ -52,7 +52,7 @@ DISCORD_TOKEN=your_token_here
 5. Run it:
 
 ```bash
-node src/rift.js
+npm run dev
 ```
 
 ## What the bot needs
