@@ -25,7 +25,7 @@ A Discord bot that does moderation stuff and has some fun commands too.
 1. Get the files:
 
 ```bash
-git clone https://github.com/yourusername/riftjs.git
+git clone https://github.com/1w6ts/riftjs.git
 cd riftjs
 ```
 
